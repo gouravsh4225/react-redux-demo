@@ -1,0 +1,2 @@
+export const GET_ALL_USERS = "GET_ALL_USERS";
+export const CLEAR_ALL_USERS = "CLEAR_ALL_USERS";
